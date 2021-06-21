@@ -1,0 +1,25 @@
+C:\Users\eri1999\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.csprojAssemblyReference.cache
+C:\Users\eri1999\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13_Monthly_Payment_Calculator.Note13MonthlyPaymentCalculatorForm.resources
+C:\Users\eri1999\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13_Monthly_Payment_Calculator.Properties.Resources.resources
+C:\Users\eri1999\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.csproj.GenerateResource.cache
+C:\Users\eri1999\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\Note13 Monthly Payment Calculator\bin\Debug\Note13 Monthly Payment Calculator.exe.config
+C:\Users\Erik\source\repos\Note13 Monthly Payment Calculator\bin\Debug\Note13 Monthly Payment Calculator.exe
+C:\Users\Erik\source\repos\Note13 Monthly Payment Calculator\bin\Debug\Note13 Monthly Payment Calculator.pdb
+C:\Users\Erik\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13_Monthly_Payment_Calculator.Note13MonthlyPaymentCalculatorForm.resources
+C:\Users\Erik\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13_Monthly_Payment_Calculator.Properties.Resources.resources
+C:\Users\Erik\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.exe
+C:\Users\Erik\source\repos\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.pdb
+C:\Users\Erik\source\repos\intro to C#\Note13 Monthly Payment Calculator\bin\Debug\Note13 Monthly Payment Calculator.exe.config
+C:\Users\Erik\source\repos\intro to C#\Note13 Monthly Payment Calculator\bin\Debug\Note13 Monthly Payment Calculator.exe
+C:\Users\Erik\source\repos\intro to C#\Note13 Monthly Payment Calculator\bin\Debug\Note13 Monthly Payment Calculator.pdb
+C:\Users\Erik\source\repos\intro to C#\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\intro to C#\Note13 Monthly Payment Calculator\obj\Debug\Note13_Monthly_Payment_Calculator.Note13MonthlyPaymentCalculatorForm.resources
+C:\Users\Erik\source\repos\intro to C#\Note13 Monthly Payment Calculator\obj\Debug\Note13_Monthly_Payment_Calculator.Properties.Resources.resources
+C:\Users\Erik\source\repos\intro to C#\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\intro to C#\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\intro to C#\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.exe
+C:\Users\Erik\source\repos\intro to C#\Note13 Monthly Payment Calculator\obj\Debug\Note13 Monthly Payment Calculator.pdb

@@ -1,0 +1,29 @@
+C:\Users\rt2362\source\repos\366\2020SP\Assignments\A5\A5 AB CLIR Methods Functions Solution\A5 AB CLIR Methods Functions\bin\Debug\A5 AB CLIR Methods Functions.exe.config
+C:\Users\rt2362\source\repos\366\2020SP\Assignments\A5\A5 AB CLIR Methods Functions Solution\A5 AB CLIR Methods Functions\bin\Debug\A5 AB CLIR Methods Functions.exe
+C:\Users\rt2362\source\repos\366\2020SP\Assignments\A5\A5 AB CLIR Methods Functions Solution\A5 AB CLIR Methods Functions\bin\Debug\A5 AB CLIR Methods Functions.pdb
+C:\Users\rt2362\source\repos\366\2020SP\Assignments\A5\A5 AB CLIR Methods Functions Solution\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.csprojAssemblyReference.cache
+C:\Users\rt2362\source\repos\366\2020SP\Assignments\A5\A5 AB CLIR Methods Functions Solution\A5 AB CLIR Methods Functions\obj\Debug\A5_AB_CLIR_Methods_Functions.AmericanBankCreditLimitIncreaseRequestForm.resources
+C:\Users\rt2362\source\repos\366\2020SP\Assignments\A5\A5 AB CLIR Methods Functions Solution\A5 AB CLIR Methods Functions\obj\Debug\A5_AB_CLIR_Methods_Functions.Properties.Resources.resources
+C:\Users\rt2362\source\repos\366\2020SP\Assignments\A5\A5 AB CLIR Methods Functions Solution\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.csproj.GenerateResource.cache
+C:\Users\rt2362\source\repos\366\2020SP\Assignments\A5\A5 AB CLIR Methods Functions Solution\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.exe
+C:\Users\rt2362\source\repos\366\2020SP\Assignments\A5\A5 AB CLIR Methods Functions Solution\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.pdb
+C:\Users\Erik\Downloads\OneDrive_2020-11-06\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\bin\Debug\A5 AB CLIR Methods Functions.exe.config
+C:\Users\Erik\Downloads\OneDrive_2020-11-06\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\bin\Debug\A5 AB CLIR Methods Functions.exe
+C:\Users\Erik\Downloads\OneDrive_2020-11-06\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\bin\Debug\A5 AB CLIR Methods Functions.pdb
+C:\Users\Erik\Downloads\OneDrive_2020-11-06\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.csprojAssemblyReference.cache
+C:\Users\Erik\Downloads\OneDrive_2020-11-06\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5_AB_CLIR_Methods_Functions.AmericanBankCreditLimitIncreaseRequestForm.resources
+C:\Users\Erik\Downloads\OneDrive_2020-11-06\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5_AB_CLIR_Methods_Functions.Properties.Resources.resources
+C:\Users\Erik\Downloads\OneDrive_2020-11-06\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.csproj.GenerateResource.cache
+C:\Users\Erik\Downloads\OneDrive_2020-11-06\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Downloads\OneDrive_2020-11-06\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.exe
+C:\Users\Erik\Downloads\OneDrive_2020-11-06\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.pdb
+C:\Users\Erik\source\repos\intro to C#\A5 AB CLIR Methods Functions Erik Zander\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\bin\Debug\A5 AB CLIR Methods Functions.exe.config
+C:\Users\Erik\source\repos\intro to C#\A5 AB CLIR Methods Functions Erik Zander\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\bin\Debug\A5 AB CLIR Methods Functions.exe
+C:\Users\Erik\source\repos\intro to C#\A5 AB CLIR Methods Functions Erik Zander\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\bin\Debug\A5 AB CLIR Methods Functions.pdb
+C:\Users\Erik\source\repos\intro to C#\A5 AB CLIR Methods Functions Erik Zander\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\intro to C#\A5 AB CLIR Methods Functions Erik Zander\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5_AB_CLIR_Methods_Functions.AmericanBankCreditLimitIncreaseRequestForm.resources
+C:\Users\Erik\source\repos\intro to C#\A5 AB CLIR Methods Functions Erik Zander\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5_AB_CLIR_Methods_Functions.Properties.Resources.resources
+C:\Users\Erik\source\repos\intro to C#\A5 AB CLIR Methods Functions Erik Zander\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\intro to C#\A5 AB CLIR Methods Functions Erik Zander\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\intro to C#\A5 AB CLIR Methods Functions Erik Zander\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.exe
+C:\Users\Erik\source\repos\intro to C#\A5 AB CLIR Methods Functions Erik Zander\A5 AB CLIR Methods Functions\A5 AB CLIR Methods Functions\obj\Debug\A5 AB CLIR Methods Functions.pdb

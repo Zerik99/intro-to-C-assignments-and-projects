@@ -1,0 +1,20 @@
+C:\Users\Erik\source\repos\A3 AB CCRO attempt 1\A3 AB CCRO\bin\Debug\A3 AB CCRO.exe.config
+C:\Users\Erik\source\repos\A3 AB CCRO attempt 1\A3 AB CCRO\bin\Debug\A3 AB CCRO.exe
+C:\Users\Erik\source\repos\A3 AB CCRO attempt 1\A3 AB CCRO\bin\Debug\A3 AB CCRO.pdb
+C:\Users\Erik\source\repos\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3 AB CCRO.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3_AB_CCRO.ABCCRewardsOffersForm.resources
+C:\Users\Erik\source\repos\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3_AB_CCRO.Properties.Resources.resources
+C:\Users\Erik\source\repos\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3 AB CCRO.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3 AB CCRO.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3 AB CCRO.exe
+C:\Users\Erik\source\repos\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3 AB CCRO.pdb
+C:\Users\Erik\source\repos\intro to C#\A3 AB CCRO attempt 1\A3 AB CCRO\bin\Debug\A3 AB CCRO.exe.config
+C:\Users\Erik\source\repos\intro to C#\A3 AB CCRO attempt 1\A3 AB CCRO\bin\Debug\A3 AB CCRO.exe
+C:\Users\Erik\source\repos\intro to C#\A3 AB CCRO attempt 1\A3 AB CCRO\bin\Debug\A3 AB CCRO.pdb
+C:\Users\Erik\source\repos\intro to C#\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3 AB CCRO.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\intro to C#\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3_AB_CCRO.ABCCRewardsOffersForm.resources
+C:\Users\Erik\source\repos\intro to C#\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3_AB_CCRO.Properties.Resources.resources
+C:\Users\Erik\source\repos\intro to C#\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3 AB CCRO.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\intro to C#\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3 AB CCRO.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\intro to C#\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3 AB CCRO.exe
+C:\Users\Erik\source\repos\intro to C#\A3 AB CCRO attempt 1\A3 AB CCRO\obj\Debug\A3 AB CCRO.pdb

@@ -1,0 +1,38 @@
+C:\Users\rt2362\source\repos\366\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.exe.config
+C:\Users\rt2362\source\repos\366\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.exe
+C:\Users\rt2362\source\repos\366\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.pdb
+C:\Users\rt2362\source\repos\366\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.csprojAssemblyReference.cache
+C:\Users\rt2362\source\repos\366\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6_AB_Funds_Transfer_Application.AmericanBankFundsTransferApplicationForm.resources
+C:\Users\rt2362\source\repos\366\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6_AB_Funds_Transfer_Application.Properties.Resources.resources
+C:\Users\rt2362\source\repos\366\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.csproj.GenerateResource.cache
+C:\Users\rt2362\source\repos\366\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.exe
+C:\Users\rt2362\source\repos\366\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.pdb
+C:\Users\rt2362\source\repos\366\2020FA\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.exe.config
+C:\Users\rt2362\source\repos\366\2020FA\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.exe
+C:\Users\rt2362\source\repos\366\2020FA\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.pdb
+C:\Users\rt2362\source\repos\366\2020FA\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.csprojAssemblyReference.cache
+C:\Users\rt2362\source\repos\366\2020FA\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6_AB_Funds_Transfer_Application.AmericanBankFundsTransferApplicationForm.resources
+C:\Users\rt2362\source\repos\366\2020FA\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6_AB_Funds_Transfer_Application.Properties.Resources.resources
+C:\Users\rt2362\source\repos\366\2020FA\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.csproj.GenerateResource.cache
+C:\Users\rt2362\source\repos\366\2020FA\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.exe
+C:\Users\rt2362\source\repos\366\2020FA\Assignments\A6\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.pdb
+C:\Users\Erik\source\repos\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.exe.config
+C:\Users\Erik\source\repos\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.exe
+C:\Users\Erik\source\repos\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.pdb
+C:\Users\Erik\source\repos\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6_AB_Funds_Transfer_Application.AmericanBankFundsTransferApplicationForm.resources
+C:\Users\Erik\source\repos\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6_AB_Funds_Transfer_Application.Properties.Resources.resources
+C:\Users\Erik\source\repos\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.exe
+C:\Users\Erik\source\repos\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.pdb
+C:\Users\Erik\source\repos\intro to C#\A6 AB Funds Transfer Application erik Zander\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.exe.config
+C:\Users\Erik\source\repos\intro to C#\A6 AB Funds Transfer Application erik Zander\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.exe
+C:\Users\Erik\source\repos\intro to C#\A6 AB Funds Transfer Application erik Zander\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\bin\Debug\A6 AB Funds Transfer Application.pdb
+C:\Users\Erik\source\repos\intro to C#\A6 AB Funds Transfer Application erik Zander\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\intro to C#\A6 AB Funds Transfer Application erik Zander\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6_AB_Funds_Transfer_Application.AmericanBankFundsTransferApplicationForm.resources
+C:\Users\Erik\source\repos\intro to C#\A6 AB Funds Transfer Application erik Zander\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6_AB_Funds_Transfer_Application.Properties.Resources.resources
+C:\Users\Erik\source\repos\intro to C#\A6 AB Funds Transfer Application erik Zander\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\intro to C#\A6 AB Funds Transfer Application erik Zander\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\intro to C#\A6 AB Funds Transfer Application erik Zander\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.exe
+C:\Users\Erik\source\repos\intro to C#\A6 AB Funds Transfer Application erik Zander\A6 AB Funds Transfer Application\A6 AB Funds Transfer Application\obj\Debug\A6 AB Funds Transfer Application.pdb
